@@ -1,6 +1,6 @@
 # 인증 (Authentication)
 
-![test](../assets/photos/auth_flow.png)
+![test](../assets/pics/auth_flow.png)
 
 ##### 인증의 흐름
 클라 = 클라이언트
