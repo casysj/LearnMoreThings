@@ -1,6 +1,6 @@
 # 인증 (Authentication)
 
-![[../assets/photos/Pasted image 20240205205044.png]]
+![alt](../assets/photos/Pasted image 20240205205044.png)
 
 ##### 인증의 흐름
 클라 = 클라이언트
