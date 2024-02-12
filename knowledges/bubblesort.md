@@ -8,7 +8,9 @@
 
 ###### 버블소트에 대해 설명
 버블소트(Bubble sort)는 주어진 배열이 있고, 그 배열의 안에 서로 인접한(옆에 붙어있는) 두요소(element)를 비교해서 값을 바꿔주는 방식으로 작동한다.
+
 일반적으로 배열의 처음부터 끝까지 이 과정을 반복하면서 큰 숫자를 뒤로, 작은 숫자를 앞으로 이동하게 된다.
+
 마치 이 모습이 물속에서 공기방울이 발생해서 점점 커져서 위로 올라가는것 같아 버블소트라고 칭한다.
 
 ###### 버블소트의 과정
@@ -38,15 +40,15 @@ const arr = [5,6,8,4,9];
 ```js
 const arr = [5,6,8,4,9];
 function bubblesort(arr) {
-	for(let i = 0; i < arr.length; i++){
-		for(let j = 0; j < arr.length-1 ; j++) {
-			if(arr[j]>arr[j+1]){
-				const tempVal = arr[j];
-				arr[j] = arr[j+1];
-				arr[j+1] = tempVal;
-			}
-		}
-	}
+ for(let i = 0; i < arr.length; i++){
+  for(let j = 0; j < arr.length-1 ; j++) {
+   if(arr[j]>arr[j+1]){
+    const tempVal = arr[j];
+    arr[j] = arr[j+1];
+    arr[j+1] = tempVal;
+   }
+  }
+ }
 }
 
 bubblesort(arr);
@@ -57,10 +59,15 @@ bubblesort(arr);
 ###### 시간 복잡도
 
 n-1 + n-2 + .... + 2 + 1
-이런식으로 비교연산이 진행된다
+이런식으로 비교연산이 진행된다.
+
 n은 해당 배열의 길이이다.
+
 이는 n(n-1)/2 에 해당하고 이는 결국 O(n^2)와 같은 시간 복잡도를 가진다.
+
 시간복잡도는 위의 접근처럼 수학적 계산이 필요할 수도 있는데 이 부분은 일단 인터넷의 정보를 활용했다.
 
+
 가볍게 생각해보면
+
 for loop가 2중첩으로 각각 배열의 길이 만큼이나 반복되기 때문에 n*n 이라고 생각해볼 수 있겠다.
