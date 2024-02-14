@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/array/Rotate Array.md",
+                "file": "leetcode/array/Rotate_Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/array/Rotate Array.md",
+                "file": "leetcode/array/Rotate_Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/array/Rotate Array.md",
+                "file": "leetcode/array/Rotate_Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/array/Rotate Array.md"
+                "file": "leetcode/array/Rotate_Array.md"
               }
             }
           },
@@ -170,7 +170,7 @@
   "active": "cdafaaa32d136107",
   "lastOpenFiles": [
     "leetcode/array/Best Time to Buy and Sell Stock II.md",
-    "leetcode/array/Rotate Array.md",
+    "leetcode/array/Rotate_Array.md",
     "README.md"
   ]
 }
