@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cdafaaa32d136107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "leetcode/array/Rotate Array.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/array/Best Time to Buy and Sell Stock II.md",
+                "file": "leetcode/array/Rotate Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/array/Best Time to Buy and Sell Stock II.md",
+                "file": "leetcode/array/Rotate Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/array/Best Time to Buy and Sell Stock II.md"
+                "file": "leetcode/array/Rotate Array.md"
               }
             }
           },
@@ -142,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +167,10 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "89ec14673f9a9381",
+  "active": "cdafaaa32d136107",
   "lastOpenFiles": [
-    "README.md",
-    "leetcode/array/Best Time to Buy and Sell Stock II.md"
+    "leetcode/array/Best Time to Buy and Sell Stock II.md",
+    "leetcode/array/Rotate Array.md",
+    "README.md"
   ]
 }
