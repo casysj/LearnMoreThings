@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b35cb0eb0372299e",
+        "id": "0ab18d146283ee41",
         "type": "tabs",
         "children": [
           {
-            "id": "21c2199e1f7c04c4",
+            "id": "75612d39a802b793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "leetcode/array/Contains Duplicate.md",
+                "file": "knowledges/Datastructure_Hash.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "leetcode/array/Contains Duplicate.md",
+                "file": "knowledges/Datastructure_Hash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "leetcode/array/Contains Duplicate.md",
+                "file": "knowledges/Datastructure_Hash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "leetcode/array/Contains Duplicate.md"
+                "file": "knowledges/Datastructure_Hash.md"
               }
             }
           },
@@ -154,14 +154,20 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "21c2199e1f7c04c4",
+  "active": "75612d39a802b793",
   "lastOpenFiles": [
+    "knowledges/Datastructure_Array.md",
+    "knowledges/Datastructure_Hash.md",
+    "leetcode/array/Intersection of Two Arrays II.md",
     "leetcode/array/Single Number.md",
-    "leetcode/array/Contains Duplicate.md",
-    "leetcode/array/Remove_Duplicates_from_Sorted_Array.md",
     "leetcode/array/Rotate_Array.md",
-    "leetcode/array/Best Time to Buy and Sell Stock II.md",
+    "leetcode/array/Remove_Duplicates_from_Sorted_Array.md",
+    "README.md",
     "knowledges/simply_learned_what_map_is.md",
-    "README.md"
+    "knowledges/2_Arrays_with_object_compare_and_modify_object.md",
+    "leetcode/array/Best Time to Buy and Sell Stock II.md",
+    "leetcode/array/Contains Duplicate.md",
+    "knowledges/bubblesort.md",
+    "knowledges/simple_authentication_flow.md"
   ]
 }
