@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledges/Datastructure_Hash.md",
+                "file": "leetcode/array/Plus One.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "knowledges/Datastructure_Hash.md",
+                "file": "leetcode/array/Plus One.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "knowledges/Datastructure_Hash.md",
+                "file": "leetcode/array/Plus One.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "knowledges/Datastructure_Hash.md"
+                "file": "leetcode/array/Plus One.md"
               }
             }
           },
@@ -156,17 +156,18 @@
   },
   "active": "75612d39a802b793",
   "lastOpenFiles": [
-    "knowledges/Datastructure_Array.md",
-    "knowledges/Datastructure_Hash.md",
     "leetcode/array/Intersection of Two Arrays II.md",
+    "leetcode/array/Plus One.md",
     "leetcode/array/Single Number.md",
     "leetcode/array/Rotate_Array.md",
+    "leetcode/array/Contains Duplicate.md",
+    "leetcode/array/Best Time to Buy and Sell Stock II.md",
     "leetcode/array/Remove_Duplicates_from_Sorted_Array.md",
+    "knowledges/Datastructure_Hash.md",
+    "knowledges/Datastructure_Array.md",
     "README.md",
     "knowledges/simply_learned_what_map_is.md",
     "knowledges/2_Arrays_with_object_compare_and_modify_object.md",
-    "leetcode/array/Best Time to Buy and Sell Stock II.md",
-    "leetcode/array/Contains Duplicate.md",
     "knowledges/bubblesort.md",
     "knowledges/simple_authentication_flow.md"
   ]
